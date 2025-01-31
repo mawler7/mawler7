@@ -23,9 +23,9 @@ delivering production-ready solutions in fintech and web applications.
 
 ---
 
-## ⚽ **Featured Project: FootyStars**  
+## ⚽ **Featured Project: FootyStats**  
 
-🚀 **FootyStars** is a full-stack web application for tracking **live football matches, team & player statistics, and predictions**,  
+🚀 **FootyStas** is a full-stack web application for tracking **live football matches, team & player statistics, and predictions**,  
 inspired by **Flashscore**.  
 
 ### 🛠 **Tech Stack**  
