@@ -23,8 +23,11 @@ I have **1.5 years of commercial experience**, working with companies like **GFT
 FootyStars is a web application for tracking football match results, team and player statistics, and making match predictions. 
 
 🔹 Frontend: React.js (Styled-Components, Axios, React Router)
+
 🔹 Backend: Java (Spring Boot, Spring Security, JPA, MapStruct)
+
 🔹 Database: PostgreSQL
+
 🔹 Authentication: Google OAuth2, JWT
 
 ✨ Features:
