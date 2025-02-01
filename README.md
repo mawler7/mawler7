@@ -42,7 +42,7 @@ inspired by **Flashscore**.
 🎲 **Betting slip with a winnings calculator**  
 ⚙️ **Custom user settings** (timezone, dark mode, match sorting)  
 
-🔗 **Check out the repo:** 👉 [FootyStars](https://github.com/mawler7/FootyStats)  
+🔗 **Check out the repos:** 👉 [Backend](https://github.com/mawler7/FootyStats) [Frontend](https://github.com/mawler7/footy-front)  
 
 ---
 
